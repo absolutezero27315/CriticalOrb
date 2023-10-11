@@ -1,0 +1,1779 @@
+﻿# Game Korean (South Korea) translation.
+# Copyright 2023 AbsoluteZeroPoint
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2023-10-11 18:10\n"
+"PO-Revision-Date: 2023-10-11 18:10\n"
+"Language-Team: \n"
+"Language: ko-KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	012767104A2DAF923087429A0F4FD092
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(41 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(41 - Value).DisplayNameMap
+msgctxt ",012767104A2DAF923087429A0F4FD092"
+msgid "CurrentRegenHealthPerSec"
+msgstr "CurrentRegenHealthPerSec"
+
+#. Key:	02F776C04C58AB16DF1D6E9743517864
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_Status.E_Status.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_Status.E_Status.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",02F776C04C58AB16DF1D6E9743517864"
+msgid "Summon"
+msgstr "Summon"
+
+#. Key:	050049F4489AD8AFFE382492559E1D00
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(20 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(20 - Value).DisplayNameMap
+msgctxt ",050049F4489AD8AFFE382492559E1D00"
+msgid "DefaultAttackRange"
+msgstr "DefaultAttackRange"
+
+#. Key:	053644AD4C868DE10B744CBAC09301EB
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.11.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.11.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+msgctxt ",053644AD4C868DE10B744CBAC09301EB"
+msgid "확률 +{0}%, 데미지 +{1}"
+msgstr "확률 +{0}%, 데미지 +{1}"
+
+#. Key:	0763FB12492D6A95D42BE19FDA7EAEB1
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.2.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.2.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+msgctxt ",0763FB12492D6A95D42BE19FDA7EAEB1"
+msgid "데미지 +{0}%"
+msgstr "데미지 +{0}%"
+
+#. Key:	090BAE0341D8A3C3CA6D0F904FCC1C4B
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",090BAE0341D8A3C3CA6D0F904FCC1C4B"
+msgid "10"
+msgstr "10"
+
+#. Key:	097ACB794440B38FF006718F0579A983
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(9 - Value).DisplayNameMap
+msgctxt ",097ACB794440B38FF006718F0579A983"
+msgid "IncreaseAbilityAmount"
+msgstr "IncreaseAbilityAmount"
+
+#. Key:	0A13C33D46F2812B3192E6BD86B1BE48
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",0A13C33D46F2812B3192E6BD86B1BE48"
+msgid "12"
+msgstr "12"
+
+#. Key:	0A58A0C4410CDF01A6FD5D9B1AFC3C93
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_SelectAbility.UW_SelectAbility_C:InitAbilityInfo [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_SelectAbility.UW_SelectAbility_C:InitAbilityInfo [Script Bytecode]
+msgctxt ",0A58A0C4410CDF01A6FD5D9B1AFC3C93"
+msgid "{0} -> <NewValue>{1}</>"
+msgstr "{0} -> <NewValue>{1}</>"
+
+#. Key:	0AA3EB9E43092AD634FDA4ADAA0563CB
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(12 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(12 - Value).DisplayNameMap
+msgctxt ",0AA3EB9E43092AD634FDA4ADAA0563CB"
+msgid "None"
+msgstr "None"
+
+#. Key:	0ADE4EF34C142FCF537432B276EB1D1D
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.8.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.8.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",0ADE4EF34C142FCF537432B276EB1D1D"
+msgid "공격범위 증가 +15%"
+msgstr "공격범위 증가 +15%"
+
+#. Key:	0B7BDC164FDF96612C4A55AB41C5B61E
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Main.UW_Main_C:WidgetTree.TB_BossHP.Text
+#: /Game/CriticalOrb/HUD/UW_Main.UW_Main_C:WidgetTree.TB_BossHP.Text
+msgctxt ",0B7BDC164FDF96612C4A55AB41C5B61E"
+msgid "???"
+msgstr "???"
+
+#. Key:	0B8A39D445F8DE19DB1D678BB8AFC7E5
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(19 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(19 - Value).DisplayNameMap
+msgctxt ",0B8A39D445F8DE19DB1D678BB8AFC7E5"
+msgid "CurrentMovementSpeed"
+msgstr "CurrentMovementSpeed"
+
+#. Key:	0BB4E41E47F3CB3E90A4F1A7CE4C9DE3
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Options.UW_Options_C:ExecuteUbergraph_UW_Options [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_Options.UW_Options_C:ExecuteUbergraph_UW_Options [Script Bytecode]
+msgctxt ",0BB4E41E47F3CB3E90A4F1A7CE4C9DE3"
+msgid "Master Volume"
+msgstr "Master Volume"
+
+#. Key:	0C6DBE3046A476204A98CABC932DF4CA
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.17.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.17.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",0C6DBE3046A476204A98CABC932DF4CA"
+msgid "블랙홀"
+msgstr "블랙홀"
+
+#. Key:	0EBEE72F4C71EC0DD62E319FC61908F9
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(25 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(25 - Value).DisplayNameMap
+msgctxt ",0EBEE72F4C71EC0DD62E319FC61908F9"
+msgid "CurrentCriticalDamage"
+msgstr "CurrentCriticalDamage"
+
+#. Key:	0EFA3EA8462F9F01225A20B7B2081E00
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.3.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.3.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",0EFA3EA8462F9F01225A20B7B2081E00"
+msgid "Poison"
+msgstr "Poison"
+
+#. Key:	0FADBE25416608FE80D408AAD3B46DA4
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.2.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.2.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",0FADBE25416608FE80D408AAD3B46DA4"
+msgid "대충 날카로운거"
+msgstr "대충 날카로운거"
+
+#. Key:	113A5D60409FF45EF0D893935C96A280
+#. SourceLocation:	/Game/CriticalOrb/Input/IMC_Default.IMC_Default.Mappings(3).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/CriticalOrb/Input/IMC_Default.IMC_Default.Mappings(3).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",113A5D60409FF45EF0D893935C96A280"
+msgid "IA_Move_Arrow"
+msgstr "IA_Move_Arrow"
+
+#. Key:	126F44D8416ADA91197CD1AB80A1106D
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Stats.UW_Stats_C:InitStatsWidget [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_Stats.UW_Stats_C:InitStatsWidget [Script Bytecode]
+msgctxt ",126F44D8416ADA91197CD1AB80A1106D"
+msgid "발동 : {0}"
+msgstr "발동 : {0}"
+
+#. Key:	132EE3204AC06E5ED160E2A133AD0FA9
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.8.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.8.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",132EE3204AC06E5ED160E2A133AD0FA9"
+msgid "공격범위 증가"
+msgstr "공격범위 증가"
+
+#. Key:	13EA44044C31E57C92CC729E6BC7B2EF
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_GameMode.E_GameMode.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_GameMode.E_GameMode.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",13EA44044C31E57C92CC729E6BC7B2EF"
+msgid "Chaos"
+msgstr "Chaos"
+
+#. Key:	157127FA4DA7E47DA787DA96006D40B8
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.1.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.1.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",157127FA4DA7E47DA787DA96006D40B8"
+msgid "Critical hit chance increased by {0}%, and critical hit damage is raised by {1}%."
+msgstr "Critical hit chance increased by {0}%, and critical hit damage is raised by {1}%."
+
+#. Key:	15B0A36342DFD5DC38FCE1A7404DCFC3
+#. SourceLocation:	/Game/CriticalOrb/HUD/SelectAbility/UW_Ability.UW_Ability_C:WidgetTree.RTB_CurrentAbility.Text
+#: /Game/CriticalOrb/HUD/SelectAbility/UW_Ability.UW_Ability_C:WidgetTree.RTB_CurrentAbility.Text
+msgctxt ",15B0A36342DFD5DC38FCE1A7404DCFC3"
+msgid "Text <NewValue> New Value </>"
+msgstr "Text <NewValue> New Value </>"
+
+#. Key:	15D14A22439D207200044793241A3E78
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Main.UW_Main_C:WidgetTree.TB_CriticalChance.Text
+#: /Game/CriticalOrb/HUD/UW_Main.UW_Main_C:WidgetTree.TB_CriticalChance.Text
+msgctxt ",15D14A22439D207200044793241A3E78"
+msgid "100"
+msgstr "100"
+
+#. Key:	17628CBB493D7CBACDE95AAB8E98AB2A
+#. SourceLocation:	/Game/CriticalOrb/HUD/Options/UW_Selector.UW_Selector_C:WidgetTree.TextBlock_236.Text
+#: /Game/CriticalOrb/HUD/Options/UW_Selector.UW_Selector_C:WidgetTree.TextBlock_236.Text
+msgctxt ",17628CBB493D7CBACDE95AAB8E98AB2A"
+msgid ">"
+msgstr ">"
+
+#. Key:	18105E634A8A431410BBCDA4001AC802
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_ESCMenu.UW_ESCMenu_C:WidgetTree.TextBlock_111.Text
+#: /Game/CriticalOrb/HUD/UW_ESCMenu.UW_ESCMenu_C:WidgetTree.TextBlock_111.Text
+msgctxt ",18105E634A8A431410BBCDA4001AC802"
+msgid "옵션"
+msgstr "옵션"
+
+#. Key:	1A1BF7104927EE01D94AD88EBC70272F
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.0.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.0.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",1A1BF7104927EE01D94AD88EBC70272F"
+msgid "Toxic Cloud"
+msgstr "Toxic Cloud"
+
+#. Key:	1D415A74485FFB49B84C9AAB8349BEEC
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(21 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(21 - Value).DisplayNameMap
+msgctxt ",1D415A74485FFB49B84C9AAB8349BEEC"
+msgid "CurrentAttackRange"
+msgstr "CurrentAttackRange"
+
+#. Key:	1EF7454C4C79F86209ABE081940434C8
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.6.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.6.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+msgctxt ",1EF7454C4C79F86209ABE081940434C8"
+msgid "확률 +{0}%, 데미지 +{1}"
+msgstr "확률 +{0}%, 데미지 +{1}"
+
+#. Key:	20DB7F1E482C3E439BC479A116116476
+#. SourceLocation:	/Game/CriticalOrb/HUD/Stats/UW_StatsBox.UW_StatsBox_C:WidgetTree.TB_Damaged.Text
+#: /Game/CriticalOrb/HUD/Stats/UW_StatsBox.UW_StatsBox_C:WidgetTree.TB_Damaged.Text
+msgctxt ",20DB7F1E482C3E439BC479A116116476"
+msgid "1"
+msgstr "1"
+
+#. Key:	220E00624EFCAF41578B21B6252CEAFE
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.10.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.10.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",220E00624EFCAF41578B21B6252CEAFE"
+msgid "죽음의 광선"
+msgstr "죽음의 광선"
+
+#. Key:	227C68E44E5C518724029D8A34CD03A4
+#. SourceLocation:	/Game/CriticalOrb/DataSets/E_GraphicQuality.E_GraphicQuality.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/CriticalOrb/DataSets/E_GraphicQuality.E_GraphicQuality.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",227C68E44E5C518724029D8A34CD03A4"
+msgid "Cinematic"
+msgstr "Cinematic"
+
+#. Key:	22A360E84B73320F2C9836949EC18513
+#. SourceLocation:	/Game/CriticalOrb/Components/AC_Entity.AC_Entity_C:Init [Script Bytecode]
+#: /Game/CriticalOrb/Components/AC_Entity.AC_Entity_C:Init [Script Bytecode]
+msgctxt ",22A360E84B73320F2C9836949EC18513"
+msgid "AC_Entity Init enum crash {0}"
+msgstr "AC_Entity Init enum crash {0}"
+
+#. Key:	22F8F6EA47EEB9659DAF6E88D6F01312
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",22F8F6EA47EEB9659DAF6E88D6F01312"
+msgid "CurrentHealth"
+msgstr "CurrentHealth"
+
+#. Key:	231AE80C4D843E364C0ABFAB9C956318
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_SelectAbility.E_SelectAbility.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_SelectAbility.E_SelectAbility.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",231AE80C4D843E364C0ABFAB9C956318"
+msgid "Ability2"
+msgstr "Ability2"
+
+#. Key:	2478A3EB4BE5B989BBE3DBA4EFDE5EDD
+#. SourceLocation:	/Game/CriticalOrb/HUD/Options/UW_Slider.UW_Slider_C:WidgetTree.TextBlock_236.Text
+#: /Game/CriticalOrb/HUD/Options/UW_Slider.UW_Slider_C:WidgetTree.TextBlock_236.Text
+msgctxt ",2478A3EB4BE5B989BBE3DBA4EFDE5EDD"
+msgid ">"
+msgstr ">"
+
+#. Key:	249F32A549C0DFD82225B09C65A288D6
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.1.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.1.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",249F32A549C0DFD82225B09C65A288D6"
+msgid "대충 빠른거"
+msgstr "대충 빠른거"
+
+#. Key:	24FDFB1B419E3A5976C2F8849AD22A82
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(12 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(12 - Value).DisplayNameMap
+msgctxt ",24FDFB1B419E3A5976C2F8849AD22A82"
+msgid "DefaultArmor"
+msgstr "DefaultArmor"
+
+#. Key:	253E730D4E11AE01AF33E081FD049F09
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Options.UW_Options_C:WidgetTree.TextBlock_107.Text
+#: /Game/CriticalOrb/HUD/UW_Options.UW_Options_C:WidgetTree.TextBlock_107.Text
+msgctxt ",253E730D4E11AE01AF33E081FD049F09"
+msgid "Audio"
+msgstr "Audio"
+
+#. Key:	262E95E746524B9ACC6DB9BA0915F2FF
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_ESCMenu.UW_ESCMenu_C:WidgetTree.TextBlock_1.Text
+#: /Game/CriticalOrb/HUD/UW_ESCMenu.UW_ESCMenu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",262E95E746524B9ACC6DB9BA0915F2FF"
+msgid "메인 메뉴"
+msgstr "메인 메뉴"
+
+#. Key:	26C9F90A471F3FB2A694409E284930A2
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.9.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.9.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+msgctxt ",26C9F90A471F3FB2A694409E284930A2"
+msgid "확률 +{0}%, 데미지 +{1}, 범위 +{2}M"
+msgstr "확률 +{0}%, 데미지 +{1}, 범위 +{2}M"
+
+#. Key:	2791EE9A413AE19629D3359C10C8A724
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(14 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(14 - Value).DisplayNameMap
+msgctxt ",2791EE9A413AE19629D3359C10C8A724"
+msgid "DefaultDamage"
+msgstr "DefaultDamage"
+
+#. Key:	28B676124C314E6658B724ACE4E1E11E
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(13 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(13 - Value).DisplayNameMap
+msgctxt ",28B676124C314E6658B724ACE4E1E11E"
+msgid "CurrentArmor"
+msgstr "CurrentArmor"
+
+#. Key:	28F7217940CED90C9209E4AA1D4B0895
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(9 - Value).DisplayNameMap
+msgctxt ",28F7217940CED90C9209E4AA1D4B0895"
+msgid "18"
+msgstr "18"
+
+#. Key:	2A5B339D4BFF3CFAF62170ADFEB59D49
+#. SourceLocation:	/Game/CriticalOrb/Input/IMC_Default.IMC_Default.Mappings(7).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/CriticalOrb/Input/IMC_Default.IMC_Default.Mappings(7).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",2A5B339D4BFF3CFAF62170ADFEB59D49"
+msgid "IA_Move_WASD"
+msgstr "IA_Move_WASD"
+
+#. Key:	2C4F6D314AA238E192CD9F897D770ED5
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.3.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.3.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",2C4F6D314AA238E192CD9F897D770ED5"
+msgid "치명타 확률 7%, 치명타 데미지 7% 증가"
+msgstr "치명타 확률 7%, 치명타 데미지 7% 증가"
+
+#. Key:	2D1A2C694D822F8EDE1F1997CACAD2D1
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",2D1A2C694D822F8EDE1F1997CACAD2D1"
+msgid "IncreaseCriticalDamage"
+msgstr "IncreaseCriticalDamage"
+
+#. Key:	2D2CC1014FBC254103A251BED26D2D6E
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",2D2CC1014FBC254103A251BED26D2D6E"
+msgid "17"
+msgstr "17"
+
+#. Key:	2D7FE057461F346C8B5960AB3AF54A13
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(11 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(11 - Value).DisplayNameMap
+msgctxt ",2D7FE057461F346C8B5960AB3AF54A13"
+msgid "IncreaseHealthRegen"
+msgstr "IncreaseHealthRegen"
+
+#. Key:	2DC317C844ECB1C66101509A17CCB1CB
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.8.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.8.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+msgctxt ",2DC317C844ECB1C66101509A17CCB1CB"
+msgid "공격범위 증가 +{0}%"
+msgstr "공격범위 증가 +{0}%"
+
+#. Key:	2E1268614D3291DF5F65369E23D3928A
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.5.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.5.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",2E1268614D3291DF5F65369E23D3928A"
+msgid "YEET!!!"
+msgstr "YEET!!!"
+
+#. Key:	2E2C186B470254B6E90DFAA5E479C374
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.4.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.4.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",2E2C186B470254B6E90DFAA5E479C374"
+msgid "투사체 관통 +1"
+msgstr "투사체 관통 +1"
+
+#. Key:	3015BE294D978C28FFF1F99D30F954E6
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.17.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.17.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",3015BE294D978C28FFF1F99D30F954E6"
+msgid "발동 확률 +0.3%, 적 위치에 블랙홀을 소환한다. 주변 적은 블랙홀의 특이점으로 빨려들어가고 동시에 100의 피해를 0.2초마다 입는다."
+msgstr "발동 확률 +0.3%, 적 위치에 블랙홀을 소환한다. 주변 적은 블랙홀의 특이점으로 빨려들어가고 동시에 100의 피해를 0.2초마다 입는다."
+
+#. Key:	30A62D8C421AE8F8A56836B5DCA01CD4
+#. SourceLocation:	/Game/CriticalOrb/HUD/SelectAbility/UW_Ability.UW_Ability_C:WidgetTree.TB_AbilityDesc.Text
+#: /Game/CriticalOrb/HUD/SelectAbility/UW_Ability.UW_Ability_C:WidgetTree.TB_AbilityDesc.Text
+msgctxt ",30A62D8C421AE8F8A56836B5DCA01CD4"
+msgid "asdasd\r\nasdasasdasdasd"
+msgstr "asdasd\r\nasdasasdasdasd"
+
+#. Key:	30C0B3E04482135B998E0BAD7768791C
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(39 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(39 - Value).DisplayNameMap
+msgctxt ",30C0B3E04482135B998E0BAD7768791C"
+msgid "CurrentProjectilePierce"
+msgstr "CurrentProjectilePierce"
+
+#. Key:	3315FCC548D274EE68913C923A414BFD
+#. SourceLocation:	/Game/CriticalOrb/HUD/Main/UW_Image.UW_Image_C:WidgetTree.TB_Count.Text
+#: /Game/CriticalOrb/HUD/Main/UW_Image.UW_Image_C:WidgetTree.TB_Count.Text
+msgctxt ",3315FCC548D274EE68913C923A414BFD"
+msgid "12"
+msgstr "12"
+
+#. Key:	33A2785D46F43D3BE8705AA9C565A4AC
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.4.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.4.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",33A2785D46F43D3BE8705AA9C565A4AC"
+msgid "Reduces the cooldown of all projectiles by {0}%."
+msgstr "Reduces the cooldown of all projectiles by {0}%."
+
+#. Key:	33FDC3D84D5B6EBBA60357B89563BF9F
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.0.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.0.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",33FDC3D84D5B6EBBA60357B89563BF9F"
+msgid "With a {0}% chance, a toxic mist materializes, afflicting enemies within the mist with poison. Furthermore, foes within the toxic fog suffer {2} damage every {1} seconds."
+msgstr "With a {0}% chance, a toxic mist materializes, afflicting enemies within the mist with poison. Furthermore, foes within the toxic fog suffer {2} damage every {1} seconds."
+
+#. Key:	350A924B4CB99DA28B74C9A05EAF6939
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_SelectAbility.E_SelectAbility.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_SelectAbility.E_SelectAbility.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",350A924B4CB99DA28B74C9A05EAF6939"
+msgid "Ability3"
+msgstr "Ability3"
+
+#. Key:	3580C0B4486B9986620C08A30E9DB0C0
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",3580C0B4486B9986620C08A30E9DB0C0"
+msgid "CurrentShield"
+msgstr "CurrentShield"
+
+#. Key:	3601C6AA4A893604ADBE8E938EE34D05
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.17.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.17.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+msgctxt ",3601C6AA4A893604ADBE8E938EE34D05"
+msgid "확률 +{0}%, 데미지 +{1}"
+msgstr "확률 +{0}%, 데미지 +{1}"
+
+#. Key:	39BD0401452A355D62CA7F928E9668DA
+#. SourceLocation:	/Game/CriticalOrb/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter_C:ExecuteUbergraph_BP_TopDownCharacter [Script Bytecode]
+#: /Game/CriticalOrb/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter_C:ExecuteUbergraph_BP_TopDownCharacter [Script Bytecode]
+msgctxt ",39BD0401452A355D62CA7F928E9668DA"
+msgid "{0} / {1}"
+msgstr "{0} / {1}"
+
+#. Key:	3C38A87C4596EEBA82BB32BC7BE1E666
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",3C38A87C4596EEBA82BB32BC7BE1E666"
+msgid "6"
+msgstr "6"
+
+#. Key:	3D4F1A3B410F911115254C8F6F7A8578
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_ESCMenu.UW_ESCMenu_C:WidgetTree.TextBlock.Text
+#: /Game/CriticalOrb/HUD/UW_ESCMenu.UW_ESCMenu_C:WidgetTree.TextBlock.Text
+msgctxt ",3D4F1A3B410F911115254C8F6F7A8578"
+msgid "설정"
+msgstr "설정"
+
+#. Key:	3DD7C98C4E46CF6893F91FA4883888F1
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Main.UW_Main_C:WidgetTree.TB_HealthRegen.Text
+#: /Game/CriticalOrb/HUD/UW_Main.UW_Main_C:WidgetTree.TB_HealthRegen.Text
+msgctxt ",3DD7C98C4E46CF6893F91FA4883888F1"
+msgid "100/100"
+msgstr "100/100"
+
+#. Key:	3E2827B54965C78921CA3CB71C233417
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.5.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.5.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+msgctxt ",3E2827B54965C78921CA3CB71C233417"
+msgid "투사체를 {0}개 더 발사합니다."
+msgstr "투사체를 {0}개 더 발사합니다."
+
+#. Key:	3E50AFBD4749BD9766B7C08A5706693B
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(9 - Value).DisplayNameMap
+msgctxt ",3E50AFBD4749BD9766B7C08A5706693B"
+msgid "18"
+msgstr "18"
+
+#. Key:	430A07AD4C69020C994E53B9184B8E98
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Main.UW_Main_C:Get_TB_DPS_Text [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_Main.UW_Main_C:Get_TB_DPS_Text [Script Bytecode]
+msgctxt ",430A07AD4C69020C994E53B9184B8E98"
+msgid "DPS : {0}"
+msgstr "DPS : {0}"
+
+#. Key:	4355AD6D4C88A8088C6DA2A522635DEC
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.13.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.13.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+msgctxt ",4355AD6D4C88A8088C6DA2A522635DEC"
+msgid "공격속도 +{0}%"
+msgstr "공격속도 +{0}%"
+
+#. Key:	45D89A3643CD24CEADF18C864E896F07
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Main.UW_Main_C:WidgetTree.TB_CriticalDamage.Text
+#: /Game/CriticalOrb/HUD/UW_Main.UW_Main_C:WidgetTree.TB_CriticalDamage.Text
+msgctxt ",45D89A3643CD24CEADF18C864E896F07"
+msgid "100"
+msgstr "100"
+
+#. Key:	46097B544C09C7CCCA6A06BB7BDBD064
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",46097B544C09C7CCCA6A06BB7BDBD064"
+msgid "IncreaseHealth"
+msgstr "IncreaseHealth"
+
+#. Key:	46E552D9494AF83176745C81ADDF3F61
+#. SourceLocation:	/Game/CriticalOrb/HUD/Options/UW_Selector.UW_Selector_C:WidgetTree.TB_Option.Text
+#: /Game/CriticalOrb/HUD/Options/UW_Selector.UW_Selector_C:WidgetTree.TB_Option.Text
+msgctxt ",46E552D9494AF83176745C81ADDF3F61"
+msgid "Text Textasdasdasd"
+msgstr "Text Textasdasdasd"
+
+#. Key:	484F669C4AA4B7D121276CAAD5AF0733
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(26 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(26 - Value).DisplayNameMap
+msgctxt ",484F669C4AA4B7D121276CAAD5AF0733"
+msgid "DefaultJumpCount"
+msgstr "DefaultJumpCount"
+
+#. Key:	4B2BD7994E6CF1BC49D179AD2BFC16D3
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.1.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.1.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",4B2BD7994E6CF1BC49D179AD2BFC16D3"
+msgid "이동속도 +7%"
+msgstr "이동속도 +7%"
+
+#. Key:	4D7F365C459CC3B64DD3F4AC4D0C99CD
+#. SourceLocation:	/Game/CriticalOrb/Input/IMC_Default.IMC_Default.Mappings(8).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/CriticalOrb/Input/IMC_Default.IMC_Default.Mappings(8).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",4D7F365C459CC3B64DD3F4AC4D0C99CD"
+msgid "IA_Move_WASD"
+msgstr "IA_Move_WASD"
+
+#. Key:	4E3F83494EAE267B2B3EE58CCD06A840
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_SelectAbility.UW_SelectAbility_C:InitAbilityInfo [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_SelectAbility.UW_SelectAbility_C:InitAbilityInfo [Script Bytecode]
+msgctxt ",4E3F83494EAE267B2B3EE58CCD06A840"
+msgid "{0} -> <NewValue>{1}</>"
+msgstr "{0} -> <NewValue>{1}</>"
+
+#. Key:	4E6272CE4D82C31AB7CE81BBD7EBA715
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(10 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(10 - Value).DisplayNameMap
+msgctxt ",4E6272CE4D82C31AB7CE81BBD7EBA715"
+msgid "DefaultRage"
+msgstr "DefaultRage"
+
+#. Key:	4F1CD6444A5551A6BDF45AA40D5D6AF3
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(13 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(13 - Value).DisplayNameMap
+msgctxt ",4F1CD6444A5551A6BDF45AA40D5D6AF3"
+msgid "AbilityCooldown"
+msgstr "AbilityCooldown"
+
+#. Key:	4F266B584843BDD1C103548C3CE0701F
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Main.UW_Main_C:Get_TB_HealthRegen_Text [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_Main.UW_Main_C:Get_TB_HealthRegen_Text [Script Bytecode]
+msgctxt ",4F266B584843BDD1C103548C3CE0701F"
+msgid "+ {0}"
+msgstr "+ {0}"
+
+#. Key:	4FB82177405199C299A6AEB7BAA80A3B
+#. SourceLocation:	/Game/CriticalOrb/HUD/Options/UW_Slider.UW_Slider_C:WidgetTree.TextBlock_158.Text
+#: /Game/CriticalOrb/HUD/Options/UW_Slider.UW_Slider_C:WidgetTree.TextBlock_158.Text
+msgctxt ",4FB82177405199C299A6AEB7BAA80A3B"
+msgid "<"
+msgstr "<"
+
+#. Key:	504A2EA6459BBFFFAFA69A949C478B4E
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",504A2EA6459BBFFFAFA69A949C478B4E"
+msgid "Enemy"
+msgstr "Enemy"
+
+#. Key:	529BCDDC4590D9F11C745AA2F7B0D72F
+#. SourceLocation:	/Game/CriticalOrb/HUD/Stats/UW_StatsBox.UW_StatsBox_C:WidgetTree.TextBlock_41.Text
+#: /Game/CriticalOrb/HUD/Stats/UW_StatsBox.UW_StatsBox_C:WidgetTree.TextBlock_41.Text
+msgctxt ",529BCDDC4590D9F11C745AA2F7B0D72F"
+msgid "그래프"
+msgstr "그래프"
+
+#. Key:	53416BEF4411BD1B370E8B96210443FE
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.4.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.4.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+msgctxt ",53416BEF4411BD1B370E8B96210443FE"
+msgid "투사체 관통 +{0}"
+msgstr "투사체 관통 +{0}"
+
+#. Key:	53959AC344E2E2F2129EBB925E631D0F
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_Rank.E_Rank.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_Rank.E_Rank.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",53959AC344E2E2F2129EBB925E631D0F"
+msgid "Common"
+msgstr "Common"
+
+#. Key:	552D114B45CCC58D20FFDE83E8B4FCFA
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",552D114B45CCC58D20FFDE83E8B4FCFA"
+msgid "6"
+msgstr "6"
+
+#. Key:	56926A684C1AA7461CF937B1B393539A
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",56926A684C1AA7461CF937B1B393539A"
+msgid "11"
+msgstr "11"
+
+#. Key:	57AE628B4E020738D2AC8FB58F32EE16
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_MainMenu.UW_MainMenu_C:WidgetTree.TB_StartGame.Text
+#: /Game/CriticalOrb/HUD/UW_MainMenu.UW_MainMenu_C:WidgetTree.TB_StartGame.Text
+msgctxt ",57AE628B4E020738D2AC8FB58F32EE16"
+msgid "Play"
+msgstr "Play"
+
+#. Key:	57FB3A9243B222814F2055A057CA4921
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.3.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.3.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",57FB3A9243B222814F2055A057CA4921"
+msgid "The attacked target inflicts damage equal to {1}% of its maximum health every {0} seconds until the target dies."
+msgstr "The attacked target inflicts damage equal to {1}% of its maximum health every {0} seconds until the target dies."
+
+#. Key:	585057E34699F9843445569CE54EA55D
+#. SourceLocation:	/Game/CriticalOrb/HUD/Main/UW_ToolTip.UW_ToolTip_C:CalcDesc [Script Bytecode]
+#: /Game/CriticalOrb/HUD/Main/UW_ToolTip.UW_ToolTip_C:CalcDesc [Script Bytecode]
+msgctxt ",585057E34699F9843445569CE54EA55D"
+msgid "<NewValue>{0}</>"
+msgstr "<NewValue>{0}</>"
+
+#. Key:	58C705F542A0C36B739E8086F6A5611F
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",58C705F542A0C36B739E8086F6A5611F"
+msgid "10"
+msgstr "10"
+
+#. Key:	59BC4C184CEDE9648809A7BECFDCFCB0
+#. SourceLocation:	/Game/CriticalOrb/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter_C:ExecuteUbergraph_BP_TopDownCharacter [Script Bytecode]
+#: /Game/CriticalOrb/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter_C:ExecuteUbergraph_BP_TopDownCharacter [Script Bytecode]
+msgctxt ",59BC4C184CEDE9648809A7BECFDCFCB0"
+msgid "+{0}"
+msgstr "+{0}"
+
+#. Key:	5A794CDA4DA906489486D0A70509C357
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.3.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.3.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+msgctxt ",5A794CDA4DA906489486D0A70509C357"
+msgid "치명타 확률 {0}%, 치명타 데미지 {1}% 증가"
+msgstr "치명타 확률 {0}%, 치명타 데미지 {1}% 증가"
+
+#. Key:	5C16843343E0103EB959C0945A8BCB7A
+#. SourceLocation:	/Game/CriticalOrb/HUD/Main/UW_ToolTip.UW_ToolTip_C:CalcDesc [Script Bytecode]
+#: /Game/CriticalOrb/HUD/Main/UW_ToolTip.UW_ToolTip_C:CalcDesc [Script Bytecode]
+msgctxt ",5C16843343E0103EB959C0945A8BCB7A"
+msgid "<NewValue>{0}</>"
+msgstr "<NewValue>{0}</>"
+
+#. Key:	5C471A7D47AFFABE651D2680119ED336
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.1.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.1.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+msgctxt ",5C471A7D47AFFABE651D2680119ED336"
+msgid "이동속도 +{0}%"
+msgstr "이동속도 +{0}%"
+
+#. Key:	5D1CAAFA44AE792E1FF3BC87661B759B
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Loading.UW_Loading_C:WidgetTree.TextBlock_0.Text
+#: /Game/CriticalOrb/HUD/UW_Loading.UW_Loading_C:WidgetTree.TextBlock_0.Text
+msgctxt ",5D1CAAFA44AE792E1FF3BC87661B759B"
+msgid "Loading..."
+msgstr "Loading..."
+
+#. Key:	5F053CA24046122377129AB601AF0C07
+#. SourceLocation:	/Game/CriticalOrb/Input/IMC_Default.IMC_Default.Mappings(5).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/CriticalOrb/Input/IMC_Default.IMC_Default.Mappings(5).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",5F053CA24046122377129AB601AF0C07"
+msgid "IA_Move_Arrow"
+msgstr "IA_Move_Arrow"
+
+#. Key:	5FB9F0AE41D99782D13D4C8BC050F7C3
+#. SourceLocation:	/Game/CriticalOrb/DataSets/E_GraphicQuality.E_GraphicQuality.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/CriticalOrb/DataSets/E_GraphicQuality.E_GraphicQuality.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",5FB9F0AE41D99782D13D4C8BC050F7C3"
+msgid "Ultra"
+msgstr "Ultra"
+
+#. Key:	601ECCE84078738D3723E6A1EC7B9714
+#. SourceLocation:	/Game/CriticalOrb/DataSets/E_GraphicQuality.E_GraphicQuality.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/CriticalOrb/DataSets/E_GraphicQuality.E_GraphicQuality.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",601ECCE84078738D3723E6A1EC7B9714"
+msgid "High"
+msgstr "High"
+
+#. Key:	60D3F2AD4EB94FA966C6F1800B7AF931
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Stats.UW_Stats_C:InitStatsWidget [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_Stats.UW_Stats_C:InitStatsWidget [Script Bytecode]
+msgctxt ",60D3F2AD4EB94FA966C6F1800B7AF931"
+msgid "킬 : {0}"
+msgstr "킬 : {0}"
+
+#. Key:	6232976C4160B5D6E294F595E18BC6A1
+#. SourceLocation:	/Game/CriticalOrb/HUD/Main/UW_ToolTip.UW_ToolTip_C:WidgetTree.RTB_CurrentAbility.Text
+#: /Game/CriticalOrb/HUD/Main/UW_ToolTip.UW_ToolTip_C:WidgetTree.RTB_CurrentAbility.Text
+msgctxt ",6232976C4160B5D6E294F595E18BC6A1"
+msgid "Text <NewValue> New Value </>"
+msgstr "Text <NewValue> New Value </>"
+
+#. Key:	64CBF0C645FC56E72840C1B06965B9F1
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(14 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(14 - Value).DisplayNameMap
+msgctxt ",64CBF0C645FC56E72840C1B06965B9F1"
+msgid "AbilityDelay"
+msgstr "AbilityDelay"
+
+#. Key:	65175AC24AA71A5E66781D96DBC9B946
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(29 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(29 - Value).DisplayNameMap
+msgctxt ",65175AC24AA71A5E66781D96DBC9B946"
+msgid "CurrentJumpHeight"
+msgstr "CurrentJumpHeight"
+
+#. Key:	66B18E0D46EFEED4D53EA9AB2F3B5B26
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",66B18E0D46EFEED4D53EA9AB2F3B5B26"
+msgid "9"
+msgstr "9"
+
+#. Key:	687E8B744F94898B3C1A69B88EDBA56A
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Main.UW_Main_C:Get_TB_GameTime_Text [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_Main.UW_Main_C:Get_TB_GameTime_Text [Script Bytecode]
+msgctxt ",687E8B744F94898B3C1A69B88EDBA56A"
+msgid "{Hour} : {Min} : {Sec}"
+msgstr "{Hour} : {Min} : {Sec}"
+
+#. Key:	68D422484DFBC8531F211E9022CA393F
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_Status.E_Status.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_Status.E_Status.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",68D422484DFBC8531F211E9022CA393F"
+msgid "Kill"
+msgstr "Kill"
+
+#. Key:	68F594454492298E94324E93063E8AAD
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(33 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(33 - Value).DisplayNameMap
+msgctxt ",68F594454492298E94324E93063E8AAD"
+msgid "MaxStamina"
+msgstr "MaxStamina"
+
+#. Key:	68F5B8DC49C6168E9600A7B6C1B07EA7
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(15 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(15 - Value).DisplayNameMap
+msgctxt ",68F5B8DC49C6168E9600A7B6C1B07EA7"
+msgid "CurrentDamage"
+msgstr "CurrentDamage"
+
+#. Key:	6B1F4B8744F070FD753C1DAD7DA4C21A
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(35 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(35 - Value).DisplayNameMap
+msgctxt ",6B1F4B8744F070FD753C1DAD7DA4C21A"
+msgid "MaxEnergy"
+msgstr "MaxEnergy"
+
+#. Key:	6B5210E340DC017344DC4E92C707DEEE
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(15 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(15 - Value).DisplayNameMap
+msgctxt ",6B5210E340DC017344DC4E92C707DEEE"
+msgid "IncreaseHealthPercent"
+msgstr "IncreaseHealthPercent"
+
+#. Key:	6C4AB92E4F5EC6FFAD6CB094A1AC03FD
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",6C4AB92E4F5EC6FFAD6CB094A1AC03FD"
+msgid "IncreaseDamage"
+msgstr "IncreaseDamage"
+
+#. Key:	6E4C92E44D243588F2CBC78A0C40897D
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Main.UW_Main_C:WidgetTree.TB_AttackSpeed.Text
+#: /Game/CriticalOrb/HUD/UW_Main.UW_Main_C:WidgetTree.TB_AttackSpeed.Text
+msgctxt ",6E4C92E44D243588F2CBC78A0C40897D"
+msgid "100"
+msgstr "100"
+
+#. Key:	6E8B264C458A31EAD68D268BAD86994E
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.7.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.7.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",6E8B264C458A31EAD68D268BAD86994E"
+msgid "정전기 생성 확률 +0.5%, 정전기 데미지 +25, 최대 타겟 수 +1 (기본 5)"
+msgstr "정전기 생성 확률 +0.5%, 정전기 데미지 +25, 최대 타겟 수 +1 (기본 5)"
+
+#. Key:	6EADBD5B461A5363332895ADBEF568BB
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_SelectGameMode.UW_SelectGameMode_C:WidgetTree.TB_StartGame.Text
+#: /Game/CriticalOrb/HUD/UW_SelectGameMode.UW_SelectGameMode_C:WidgetTree.TB_StartGame.Text
+msgctxt ",6EADBD5B461A5363332895ADBEF568BB"
+msgid "Normal"
+msgstr "Normal"
+
+#. Key:	6F8F19454F695949EC4FE38DE54F4E14
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_SelectGameMode.UW_SelectGameMode_C:WidgetTree.TB_Exit.Text
+#: /Game/CriticalOrb/HUD/UW_SelectGameMode.UW_SelectGameMode_C:WidgetTree.TB_Exit.Text
+msgctxt ",6F8F19454F695949EC4FE38DE54F4E14"
+msgid "Main Menu"
+msgstr "Main Menu"
+
+#. Key:	6F93F3FD4CB1A86E7340718FA7DB229D
+#. SourceLocation:	/Game/CriticalOrb/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter_C:ExecuteUbergraph_BP_TopDownCharacter [Script Bytecode]
+#: /Game/CriticalOrb/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter_C:ExecuteUbergraph_BP_TopDownCharacter [Script Bytecode]
+msgctxt ",6F93F3FD4CB1A86E7340718FA7DB229D"
+msgid "DPS : {0}"
+msgstr "DPS : {0}"
+
+#. Key:	71DD70F44D4A618B0573DD9D44CDC532
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Options.UW_Options_C:WidgetTree.TextBlock.Text
+#: /Game/CriticalOrb/HUD/UW_Options.UW_Options_C:WidgetTree.TextBlock.Text
+msgctxt ",71DD70F44D4A618B0573DD9D44CDC532"
+msgid "Graphics"
+msgstr "Graphics"
+
+#. Key:	7211226F4FFFD8DC246294A4DEE7A7D9
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",7211226F4FFFD8DC246294A4DEE7A7D9"
+msgid "CurrentMana"
+msgstr "CurrentMana"
+
+#. Key:	73B8587D483B4E6D16AC5BBD232E8106
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.9.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.9.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",73B8587D483B4E6D16AC5BBD232E8106"
+msgid "폭발은 예술이다!"
+msgstr "폭발은 예술이다!"
+
+#. Key:	750D1FD2424D091AA08157A57A32F8A2
+#. SourceLocation:	/Game/CriticalOrb/GameMode/BP_TopDownGameMode.BP_TopDownGameMode_C:ExecuteUbergraph_BP_TopDownGameMode [Script Bytecode]
+#: /Game/CriticalOrb/GameMode/BP_TopDownGameMode.BP_TopDownGameMode_C:ExecuteUbergraph_BP_TopDownGameMode [Script Bytecode]
+msgctxt ",750D1FD2424D091AA08157A57A32F8A2"
+msgid "Count : {0} / ALL : {1}"
+msgstr "Count : {0} / ALL : {1}"
+
+#. Key:	7552609A465BCE96D799C6A56445E0B0
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_SelectAbility.UW_SelectAbility_C:InitAbilityInfo [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_SelectAbility.UW_SelectAbility_C:InitAbilityInfo [Script Bytecode]
+msgctxt ",7552609A465BCE96D799C6A56445E0B0"
+msgid "{0} -> <NewValue>{1}</>"
+msgstr "{0} -> <NewValue>{1}</>"
+
+#. Key:	7719B4044C2E553C9C3C87931AEB6328
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",7719B4044C2E553C9C3C87931AEB6328"
+msgid "17"
+msgstr "17"
+
+#. Key:	7730924E482FA01884C5EAAC9828F235
+#. SourceLocation:	/Game/CriticalOrb/Input/IMC_Default.IMC_Default.Mappings(1).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/CriticalOrb/Input/IMC_Default.IMC_Default.Mappings(1).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",7730924E482FA01884C5EAAC9828F235"
+msgid "IA_Mouse_Click"
+msgstr "IA_Mouse_Click"
+
+#. Key:	7A2D0D4A4D2400DF2DB20E9E077B130D
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_Status.E_Status.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_Status.E_Status.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",7A2D0D4A4D2400DF2DB20E9E077B130D"
+msgid "Damage"
+msgstr "Damage"
+
+#. Key:	7BD882124FB1847FC44E54AD686BFE2E
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.18.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.18.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",7BD882124FB1847FC44E54AD686BFE2E"
+msgid "입자가 플레이어의 공격 범위 주변을 빠르게 회전하며 다른 입자와 충돌할경우 폭발을 발생시킨다. (2레벨 부터 발동) 데미지 +273.15 범위 +50M"
+msgstr "입자가 플레이어의 공격 범위 주변을 빠르게 회전하며 다른 입자와 충돌할경우 폭발을 발생시킨다. (2레벨 부터 발동) 데미지 +273.15 범위 +50M"
+
+#. Key:	81484480415FDD1915B0129875555213
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_SelectAbility.UW_SelectAbility_C:Get_TB_SelectAmount_Text [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_SelectAbility.UW_SelectAbility_C:Get_TB_SelectAmount_Text [Script Bytecode]
+msgctxt ",81484480415FDD1915B0129875555213"
+msgid "남은 선택 횟수 : {0}"
+msgstr "남은 선택 횟수 : {0}"
+
+#. Key:	834217984A3037212FB13FB8C82F0EEF
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.18.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.18.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+msgctxt ",834217984A3037212FB13FB8C82F0EEF"
+msgid "데미지 +{0}, 범위 +{1}M"
+msgstr "데미지 +{0}, 범위 +{1}M"
+
+#. Key:	834B6267415B5DD9B3B0AE831334A19D
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Main.UW_Main_C:WidgetTree.TB_MovementSpeed.Text
+#: /Game/CriticalOrb/HUD/UW_Main.UW_Main_C:WidgetTree.TB_MovementSpeed.Text
+msgctxt ",834B6267415B5DD9B3B0AE831334A19D"
+msgid "100"
+msgstr "100"
+
+#. Key:	834E5DA4404FA3C0701A4B83D6E58283
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",834E5DA4404FA3C0701A4B83D6E58283"
+msgid "IncreaseAbilityChance"
+msgstr "IncreaseAbilityChance"
+
+#. Key:	8491D3C342B58A59F5C160845294F127
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.12.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.12.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",8491D3C342B58A59F5C160845294F127"
+msgid "터렛"
+msgstr "터렛"
+
+#. Key:	8739EBC44E07880084942CAD7984CD4B
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",8739EBC44E07880084942CAD7984CD4B"
+msgid "12"
+msgstr "12"
+
+#. Key:	87B33D6F4EE855F33434D2A761AF70CE
+#. SourceLocation:	/Game/CriticalOrb/Blueprints/Enemy/A_Entity_Boss.A_Entity_Boss_C:ExecuteUbergraph_A_Entity_Boss [Script Bytecode]
+#: /Game/CriticalOrb/Blueprints/Enemy/A_Entity_Boss.A_Entity_Boss_C:ExecuteUbergraph_A_Entity_Boss [Script Bytecode]
+msgctxt ",87B33D6F4EE855F33434D2A761AF70CE"
+msgid "{0} / {1}"
+msgstr "{0} / {1}"
+
+#. Key:	8814E41B45F1A76F5017F5A21FB9C3F5
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",8814E41B45F1A76F5017F5A21FB9C3F5"
+msgid "CurrentStamina"
+msgstr "CurrentStamina"
+
+#. Key:	8B21A28D490D10933C2BA99F453ABEF0
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",8B21A28D490D10933C2BA99F453ABEF0"
+msgid "DefaultStamina"
+msgstr "DefaultStamina"
+
+#. Key:	8BBBCB314D1586809CD9EEB4C8440680
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(32 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(32 - Value).DisplayNameMap
+msgctxt ",8BBBCB314D1586809CD9EEB4C8440680"
+msgid "MaxMana"
+msgstr "MaxMana"
+
+#. Key:	8CD8499C4F01C32012C073B244A5041D
+#. SourceLocation:	/Game/CriticalOrb/HUD/Main/UW_ToolTip.UW_ToolTip_C:CalcDesc [Script Bytecode]
+#: /Game/CriticalOrb/HUD/Main/UW_ToolTip.UW_ToolTip_C:CalcDesc [Script Bytecode]
+msgctxt ",8CD8499C4F01C32012C073B244A5041D"
+msgid "<NewValue>{0}</>"
+msgstr "<NewValue>{0}</>"
+
+#. Key:	8D72CD884539FB15FEB8DB9D9E89FD16
+#. SourceLocation:	/Game/CriticalOrb/HUD/Options/UW_Slider.UW_Slider_C:WidgetTree.TB_Option.Text
+#: /Game/CriticalOrb/HUD/Options/UW_Slider.UW_Slider_C:WidgetTree.TB_Option.Text
+msgctxt ",8D72CD884539FB15FEB8DB9D9E89FD16"
+msgid "Text Textasdasdasd"
+msgstr "Text Textasdasdasd"
+
+#. Key:	8F04405B4A1520788DEF54B78A793A85
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_GameMode.E_GameMode.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_GameMode.E_GameMode.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",8F04405B4A1520788DEF54B78A793A85"
+msgid "Debug"
+msgstr "Debug"
+
+#. Key:	8F0AC8744BF1AF0A7C67B191546C3A4F
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.7.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.7.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",8F0AC8744BF1AF0A7C67B191546C3A4F"
+msgid "정전기!"
+msgstr "정전기!"
+
+#. Key:	8F4C0DC54F88248333D8D4B5FB796CC1
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.5.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.5.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",8F4C0DC54F88248333D8D4B5FB796CC1"
+msgid "All enemies on the map will be killed every {0} seconds."
+msgstr "All enemies on the map will be killed every {0} seconds."
+
+#. Key:	90485EEB47CE232B92842A87A2C672DE
+#. SourceLocation:	/Game/CriticalOrb/HUD/SelectAbility/UW_Ability.UW_Ability_C:WidgetTree.TB_AbilityName.Text
+#: /Game/CriticalOrb/HUD/SelectAbility/UW_Ability.UW_Ability_C:WidgetTree.TB_AbilityName.Text
+msgctxt ",90485EEB47CE232B92842A87A2C672DE"
+msgid "AbilityName"
+msgstr "AbilityName"
+
+#. Key:	90BCFC834672D420E750348843CE6C3E
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.4.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.4.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",90BCFC834672D420E750348843CE6C3E"
+msgid "관통!"
+msgstr "관통!"
+
+#. Key:	91BAD7A34BF48EB23E5D3B9F41A1A40A
+#. SourceLocation:	/Game/CriticalOrb/Components/AC_Ability.AC_Ability_C:addStatValue [Script Bytecode]
+#: /Game/CriticalOrb/Components/AC_Ability.AC_Ability_C:addStatValue [Script Bytecode]
+msgctxt ",91BAD7A34BF48EB23E5D3B9F41A1A40A"
+msgid "{0} is not found"
+msgstr "{0} is not found"
+
+#. Key:	951D3B194E7BECA1D9C3F583404BC948
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(38 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(38 - Value).DisplayNameMap
+msgctxt ",951D3B194E7BECA1D9C3F583404BC948"
+msgid "DefaultProjectilePierce"
+msgstr "DefaultProjectilePierce"
+
+#. Key:	956F925F47FCF14886034AA7FCB7BFA8
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(31 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(31 - Value).DisplayNameMap
+msgctxt ",956F925F47FCF14886034AA7FCB7BFA8"
+msgid "MaxHealth"
+msgstr "MaxHealth"
+
+#. Key:	96D5BBE74443A8A9582BE39AC6E91867
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_SelectAbility.E_SelectAbility.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_SelectAbility.E_SelectAbility.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",96D5BBE74443A8A9582BE39AC6E91867"
+msgid "Ability4"
+msgstr "Ability4"
+
+#. Key:	97C45C6C478C8D885086A7B4F0DC13D9
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_SelectAbility.E_SelectAbility.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_SelectAbility.E_SelectAbility.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",97C45C6C478C8D885086A7B4F0DC13D9"
+msgid "Ability1"
+msgstr "Ability1"
+
+#. Key:	98253FCF46F8FDE3E33D73B7BAEEFC41
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(34 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(34 - Value).DisplayNameMap
+msgctxt ",98253FCF46F8FDE3E33D73B7BAEEFC41"
+msgid "MaxShield"
+msgstr "MaxShield"
+
+#. Key:	9A4D3B774262198980435281EA1CC32C
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Main.UW_Main_C:Get_TB_Level_Text [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_Main.UW_Main_C:Get_TB_Level_Text [Script Bytecode]
+msgctxt ",9A4D3B774262198980435281EA1CC32C"
+msgid "LV.{0}"
+msgstr "LV.{0}"
+
+#. Key:	9BAC39E447F8DF351B36838A462B396E
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(18 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(18 - Value).DisplayNameMap
+msgctxt ",9BAC39E447F8DF351B36838A462B396E"
+msgid "IncreaseProjectilePierce"
+msgstr "IncreaseProjectilePierce"
+
+#. Key:	9EA7C25A45181E249C0A55B0788BCE29
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Options.UW_Options_C:ExecuteUbergraph_UW_Options [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_Options.UW_Options_C:ExecuteUbergraph_UW_Options [Script Bytecode]
+msgctxt ",9EA7C25A45181E249C0A55B0788BCE29"
+msgid "Music Volume"
+msgstr "Music Volume"
+
+#. Key:	9F0C89EA4327249FB57E309385395282
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.1.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.1.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",9F0C89EA4327249FB57E309385395282"
+msgid "Critical Hit"
+msgstr "Critical Hit"
+
+#. Key:	9F726812450181370797A5B4E678B572
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_MainMenu.UW_MainMenu_C:GetText [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_MainMenu.UW_MainMenu_C:GetText [Script Bytecode]
+msgctxt ",9F726812450181370797A5B4E678B572"
+msgid "DEV BUILD : {0}"
+msgstr "DEV BUILD : {0}"
+
+#. Key:	A23769924D45919C40380AAA73445F54
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Options.UW_Options_C:ExecuteUbergraph_UW_Options [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_Options.UW_Options_C:ExecuteUbergraph_UW_Options [Script Bytecode]
+msgctxt ",A23769924D45919C40380AAA73445F54"
+msgid "SFX Volume"
+msgstr "SFX Volume"
+
+#. Key:	A39DA01B4EF249D775513C83EFACA80A
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",A39DA01B4EF249D775513C83EFACA80A"
+msgid "7"
+msgstr "7"
+
+#. Key:	A4113A3D4FE54B1DD007FAA3BC7F56EF
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.0.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.0.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",A4113A3D4FE54B1DD007FAA3BC7F56EF"
+msgid "추가 체력"
+msgstr "추가 체력"
+
+#. Key:	A452D16C444252367A841B96E0E08CA2
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Main.UW_Main_C:Get_TB_Exp_Text [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_Main.UW_Main_C:Get_TB_Exp_Text [Script Bytecode]
+msgctxt ",A452D16C444252367A841B96E0E08CA2"
+msgid "{0} / {1}"
+msgstr "{0} / {1}"
+
+#. Key:	A5FA17E549B6F5932D57AF8555487732
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Options.UW_Options_C:WidgetTree.TextBlock_356.Text
+#: /Game/CriticalOrb/HUD/UW_Options.UW_Options_C:WidgetTree.TextBlock_356.Text
+msgctxt ",A5FA17E549B6F5932D57AF8555487732"
+msgid "Save And Close"
+msgstr "Save And Close"
+
+#. Key:	A6C75F9848BC221F89C2B4A6074E09A7
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_Rank.E_Rank.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_Rank.E_Rank.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",A6C75F9848BC221F89C2B4A6074E09A7"
+msgid "Uncommon"
+msgstr "Uncommon"
+
+#. Key:	A731D211473A12B4F5F7C3BFF3745154
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(37 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(37 - Value).DisplayNameMap
+msgctxt ",A731D211473A12B4F5F7C3BFF3745154"
+msgid "MaxArmor"
+msgstr "MaxArmor"
+
+#. Key:	A84D5575414523CCF9FDF7B674DC10BA
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_SelectGameMode.UW_SelectGameMode_C:WidgetTree.TB_Options_1.Text
+#: /Game/CriticalOrb/HUD/UW_SelectGameMode.UW_SelectGameMode_C:WidgetTree.TB_Options_1.Text
+msgctxt ",A84D5575414523CCF9FDF7B674DC10BA"
+msgid "Debug"
+msgstr "Debug"
+
+#. Key:	A84D5706490622AE47EE2B82DDA5DD76
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",A84D5706490622AE47EE2B82DDA5DD76"
+msgid "9"
+msgstr "9"
+
+#. Key:	AB2B0773408C0F99AA25A8B854D4CEC4
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",AB2B0773408C0F99AA25A8B854D4CEC4"
+msgid "11"
+msgstr "11"
+
+#. Key:	AC1D3A6F49967B77B651698F5D61D805
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(22 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(22 - Value).DisplayNameMap
+msgctxt ",AC1D3A6F49967B77B651698F5D61D805"
+msgid "DefaultCriticalChance"
+msgstr "DefaultCriticalChance"
+
+#. Key:	AE6C2FC1460F754D929A668F7F058E18
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Stats.UW_Stats_C:WidgetTree.TextBlock_63.Text
+#: /Game/CriticalOrb/HUD/UW_Stats.UW_Stats_C:WidgetTree.TextBlock_63.Text
+msgctxt ",AE6C2FC1460F754D929A668F7F058E18"
+msgid "Play Again"
+msgstr "Play Again"
+
+#. Key:	AE73BB744D5FB071D4A48E9AEBA9A30B
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_Rank.E_Rank.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_Rank.E_Rank.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",AE73BB744D5FB071D4A48E9AEBA9A30B"
+msgid "Unique"
+msgstr "Unique"
+
+#. Key:	AFCECE5944D64AE2E00440B01FD92320
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.6.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.6.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",AFCECE5944D64AE2E00440B01FD92320"
+msgid "바닥은 용암이야!"
+msgstr "바닥은 용암이야!"
+
+#. Key:	B0B5C4824D662A69A34BCAB7020D56B4
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",B0B5C4824D662A69A34BCAB7020D56B4"
+msgid "IncreaseAoeRange"
+msgstr "IncreaseAoeRange"
+
+#. Key:	B28383BB48DC3DD717408A9B7CF13882
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(42 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(42 - Value).DisplayNameMap
+msgctxt ",B28383BB48DC3DD717408A9B7CF13882"
+msgid "DefaultProjectileCount"
+msgstr "DefaultProjectileCount"
+
+#. Key:	B35C8EEA44A7A5C1093FA38A893C2AC5
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_ESCMenu.UW_ESCMenu_C:WidgetTree.TextBlock_2.Text
+#: /Game/CriticalOrb/HUD/UW_ESCMenu.UW_ESCMenu_C:WidgetTree.TextBlock_2.Text
+msgctxt ",B35C8EEA44A7A5C1093FA38A893C2AC5"
+msgid "게임 종료"
+msgstr "게임 종료"
+
+#. Key:	B4CC0B0D4014B807CEFCE1A4E5358D12
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Main.UW_Main_C:WidgetTree.TB_Damage.Text
+#: /Game/CriticalOrb/HUD/UW_Main.UW_Main_C:WidgetTree.TB_Damage.Text
+msgctxt ",B4CC0B0D4014B807CEFCE1A4E5358D12"
+msgid "100"
+msgstr "100"
+
+#. Key:	B58E872D4466BBE27B2F57A5E6BEA52C
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.12.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.12.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+msgctxt ",B58E872D4466BBE27B2F57A5E6BEA52C"
+msgid "초당 {0}번 공격, 기본 데미지의 {1}% 피해"
+msgstr "초당 {0}번 공격, 기본 데미지의 {1}% 피해"
+
+#. Key:	B6BEA05F4FAE1FFFB8E09DA53EE6A442
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_MainMenu.UW_MainMenu_C:WidgetTree.TB_Options.Text
+#: /Game/CriticalOrb/HUD/UW_MainMenu.UW_MainMenu_C:WidgetTree.TB_Options.Text
+msgctxt ",B6BEA05F4FAE1FFFB8E09DA53EE6A442"
+msgid "Options"
+msgstr "Options"
+
+#. Key:	B8158C874794C34D9E6E4ABCF47B507A
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.7.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.7.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+msgctxt ",B8158C874794C34D9E6E4ABCF47B507A"
+msgid "확률 +{0}%, 데미지 +{1}, 최대 타겟 수 +{2}"
+msgstr "확률 +{0}%, 데미지 +{1}, 최대 타겟 수 +{2}"
+
+#. Key:	BB89F60A46B1392CB756F493D3076B01
+#. SourceLocation:	/Game/CriticalOrb/HUD/Options/UW_Selector.UW_Selector_C:WidgetTree.TextBlock_158.Text
+#: /Game/CriticalOrb/HUD/Options/UW_Selector.UW_Selector_C:WidgetTree.TextBlock_158.Text
+msgctxt ",BB89F60A46B1392CB756F493D3076B01"
+msgid "<"
+msgstr "<"
+
+#. Key:	BC3783AB40C5AD88B5BE0E8013DF1617
+#. SourceLocation:	/Game/CriticalOrb/Blueprints/Enemy/A_Entity.A_Entity_C:ExecuteUbergraph_A_Entity [Script Bytecode]
+#: /Game/CriticalOrb/Blueprints/Enemy/A_Entity.A_Entity_C:ExecuteUbergraph_A_Entity [Script Bytecode]
+msgctxt ",BC3783AB40C5AD88B5BE0E8013DF1617"
+msgid "{0} / {1}"
+msgstr "{0} / {1}"
+
+#. Key:	BE0840EB4DEB88BD5E02219EA236CA2E
+#. SourceLocation:	/Game/CriticalOrb/HUD/SelectAbility/UW_Ability.UW_Ability_C:WidgetTree.TB_Rank.Text
+#: /Game/CriticalOrb/HUD/SelectAbility/UW_Ability.UW_Ability_C:WidgetTree.TB_Rank.Text
+msgctxt ",BE0840EB4DEB88BD5E02219EA236CA2E"
+msgid "RARE"
+msgstr "RARE"
+
+#. Key:	BEF051AF4AF6CBA781D480843DC1C006
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(11 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(11 - Value).DisplayNameMap
+msgctxt ",BEF051AF4AF6CBA781D480843DC1C006"
+msgid "CurrentRage"
+msgstr "CurrentRage"
+
+#. Key:	BFA5815745B924CAFED8538144E6F243
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(28 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(28 - Value).DisplayNameMap
+msgctxt ",BFA5815745B924CAFED8538144E6F243"
+msgid "DefaultJumpHeight"
+msgstr "DefaultJumpHeight"
+
+#. Key:	C217384147562A98B9C17A8785E00D15
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Options.UW_Options_C:ExecuteUbergraph_UW_Options [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_Options.UW_Options_C:ExecuteUbergraph_UW_Options [Script Bytecode]
+msgctxt ",C217384147562A98B9C17A8785E00D15"
+msgid "Max FPS"
+msgstr "Max FPS"
+
+#. Key:	C28B866A46E64A8809D1E8B226D21128
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(30 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(30 - Value).DisplayNameMap
+msgctxt ",C28B866A46E64A8809D1E8B226D21128"
+msgid "None"
+msgstr "None"
+
+#. Key:	C30FAAFA4814035D5A0A02AAFAF71931
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.3.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.3.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",C30FAAFA4814035D5A0A02AAFAF71931"
+msgid "치명타"
+msgstr "치명타"
+
+#. Key:	C3B00171445DFEED52211BA3712557B9
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Options.UW_Options_C:ExecuteUbergraph_UW_Options [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_Options.UW_Options_C:ExecuteUbergraph_UW_Options [Script Bytecode]
+msgctxt ",C3B00171445DFEED52211BA3712557B9"
+msgid "Language"
+msgstr "Language"
+
+#. Key:	C3CC49F4424F0E41212C55AE9949E663
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_SelectGameMode.UW_SelectGameMode_C:WidgetTree.TB_Options.Text
+#: /Game/CriticalOrb/HUD/UW_SelectGameMode.UW_SelectGameMode_C:WidgetTree.TB_Options.Text
+msgctxt ",C3CC49F4424F0E41212C55AE9949E663"
+msgid "Chaos"
+msgstr "Chaos"
+
+#. Key:	C40DCAD64C115971FB47EDBD790D3BAB
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.12.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.12.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",C40DCAD64C115971FB47EDBD790D3BAB"
+msgid "초당 5번 공격, 기본 데미지의 75% 피해"
+msgstr "초당 5번 공격, 기본 데미지의 75% 피해"
+
+#. Key:	C40EA34941B21DC652494FB1CAA6ECAD
+#. SourceLocation:	/Game/CriticalOrb/DataSets/E_GraphicQuality.E_GraphicQuality.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/CriticalOrb/DataSets/E_GraphicQuality.E_GraphicQuality.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",C40EA34941B21DC652494FB1CAA6ECAD"
+msgid "Middle"
+msgstr "Middle"
+
+#. Key:	C4CBAEA64845E62522DB8F97710DEDC9
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Stats.UW_Stats_C:InitStatsWidget [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_Stats.UW_Stats_C:InitStatsWidget [Script Bytecode]
+msgctxt ",C4CBAEA64845E62522DB8F97710DEDC9"
+msgid "피해량 : {0}"
+msgstr "피해량 : {0}"
+
+#. Key:	C4F0AE7D4883179A854770BE3433C75D
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(36 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(36 - Value).DisplayNameMap
+msgctxt ",C4F0AE7D4883179A854770BE3433C75D"
+msgid "MaxRage"
+msgstr "MaxRage"
+
+#. Key:	C62F84FF476832DEB24516866BA9DCCB
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_MainMenu.UW_MainMenu_C:WidgetTree.TB_Exit.Text
+#: /Game/CriticalOrb/HUD/UW_MainMenu.UW_MainMenu_C:WidgetTree.TB_Exit.Text
+msgctxt ",C62F84FF476832DEB24516866BA9DCCB"
+msgid "Exit"
+msgstr "Exit"
+
+#. Key:	C65CAE564E3BA7317877D1A3DB387167
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_SelectAbility.UW_SelectAbility_C:InitAbilityInfo [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_SelectAbility.UW_SelectAbility_C:InitAbilityInfo [Script Bytecode]
+msgctxt ",C65CAE564E3BA7317877D1A3DB387167"
+msgid "<Default>신규!</>"
+msgstr "<Default>신규!</>"
+
+#. Key:	C737888A4657EA57FDBF7893261C9710
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Main.UW_Main_C:WidgetTree.TB_AdditionalProjectile.Text
+#: /Game/CriticalOrb/HUD/UW_Main.UW_Main_C:WidgetTree.TB_AdditionalProjectile.Text
+msgctxt ",C737888A4657EA57FDBF7893261C9710"
+msgid "100"
+msgstr "100"
+
+#. Key:	C76ECE934F5B73E97FA2018348E69031
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",C76ECE934F5B73E97FA2018348E69031"
+msgid "DefaultShield"
+msgstr "DefaultShield"
+
+#. Key:	C8204D3A4478C51FEE0FB39AC6D83A81
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(10 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(10 - Value).DisplayNameMap
+msgctxt ",C8204D3A4478C51FEE0FB39AC6D83A81"
+msgid "IncreaseAbilityDamage"
+msgstr "IncreaseAbilityDamage"
+
+#. Key:	C856A0C24F1ADCB5A6D1149E1C3E0AC4
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Stats.UW_Stats_C:WidgetTree.TextBlock_130.Text
+#: /Game/CriticalOrb/HUD/UW_Stats.UW_Stats_C:WidgetTree.TextBlock_130.Text
+msgctxt ",C856A0C24F1ADCB5A6D1149E1C3E0AC4"
+msgid "MainMenu"
+msgstr "MainMenu"
+
+#. Key:	C8A3B02941A2231B4125F98428D0987F
+#. SourceLocation:	/Game/CriticalOrb/HUD/Stats/UW_StatsBox.UW_StatsBox_C:WidgetTree.TB_Killed.Text
+#: /Game/CriticalOrb/HUD/Stats/UW_StatsBox.UW_StatsBox_C:WidgetTree.TB_Killed.Text
+msgctxt ",C8A3B02941A2231B4125F98428D0987F"
+msgid "1234234"
+msgstr "1234234"
+
+#. Key:	C8D4EBE649DE883570386A9492B35395
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.18.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.18.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",C8D4EBE649DE883570386A9492B35395"
+msgid "입자 가속기"
+msgstr "입자 가속기"
+
+#. Key:	C907368D47D0126EF4E39AA32BB11CEC
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.10.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.10.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+msgctxt ",C907368D47D0126EF4E39AA32BB11CEC"
+msgid "확률 +{0}%, 데미지 +{1}"
+msgstr "확률 +{0}%, 데미지 +{1}"
+
+#. Key:	C9FB457A49ADE387EE53F3BC4AD97F98
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",C9FB457A49ADE387EE53F3BC4AD97F98"
+msgid "IncreaseMovementSpeed"
+msgstr "IncreaseMovementSpeed"
+
+#. Key:	CB4154B44F9F73DF939788887FC813F5
+#. SourceLocation:	/Game/CriticalOrb/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter_C:ExecuteUbergraph_BP_TopDownCharacter [Script Bytecode]
+#: /Game/CriticalOrb/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter_C:ExecuteUbergraph_BP_TopDownCharacter [Script Bytecode]
+msgctxt ",CB4154B44F9F73DF939788887FC813F5"
+msgid "LV.{0}"
+msgstr "LV.{0}"
+
+#. Key:	CB5D0CF94E6445D13C58C8AE311A0E2B
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(17 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(17 - Value).DisplayNameMap
+msgctxt ",CB5D0CF94E6445D13C58C8AE311A0E2B"
+msgid "AllProjectileCooldownPercent"
+msgstr "AllProjectileCooldownPercent"
+
+#. Key:	CB9254AC48E91B2D1133DD8A7BA8A8CF
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.2.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.2.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",CB9254AC48E91B2D1133DD8A7BA8A8CF"
+msgid "데미지 +45%"
+msgstr "데미지 +45%"
+
+#. Key:	CBFC2B0647D02AA56FD4AE8DC5AC0704
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_ESCMenu.UW_ESCMenu_C:WidgetTree.TextBlock_47.Text
+#: /Game/CriticalOrb/HUD/UW_ESCMenu.UW_ESCMenu_C:WidgetTree.TextBlock_47.Text
+msgctxt ",CBFC2B0647D02AA56FD4AE8DC5AC0704"
+msgid "돌아가기"
+msgstr "돌아가기"
+
+#. Key:	CC4F689C4085F7E7C8D00398B7DB8215
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",CC4F689C4085F7E7C8D00398B7DB8215"
+msgid "DefaultHealth"
+msgstr "DefaultHealth"
+
+#. Key:	CC77303A442B9D6A92AE7C808589C3FB
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.2.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.2.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",CC77303A442B9D6A92AE7C808589C3FB"
+msgid "Instantly kills monsters with health equal to or below {0}% (increases by {1}% per stack)"
+msgstr "Instantly kills monsters with health equal to or below {0}% (increases by {1}% per stack)"
+
+#. Key:	CD7C7B414C635435042B92AD298D1E43
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.2.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.2.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",CD7C7B414C635435042B92AD298D1E43"
+msgid "Death is coming"
+msgstr "Death is coming"
+
+#. Key:	CE7A42134ADD33666656AB9B9CC0EE96
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",CE7A42134ADD33666656AB9B9CC0EE96"
+msgid "IncreaseAttackSpeed"
+msgstr "IncreaseAttackSpeed"
+
+#. Key:	CF0B874943BECED37E727E99E4673ED6
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_Rank.E_Rank.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_Rank.E_Rank.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",CF0B874943BECED37E727E99E4673ED6"
+msgid "Rare"
+msgstr "Rare"
+
+#. Key:	D2773BA54B23244D3E6DA6B837E2B004
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Main.UW_Main_C:WidgetTree.TB_Level.Text
+#: /Game/CriticalOrb/HUD/UW_Main.UW_Main_C:WidgetTree.TB_Level.Text
+msgctxt ",D2773BA54B23244D3E6DA6B837E2B004"
+msgid "100"
+msgstr "100"
+
+#. Key:	D37ACAC946726FC2B1B310B81A3B081B
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(43 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(43 - Value).DisplayNameMap
+msgctxt ",D37ACAC946726FC2B1B310B81A3B081B"
+msgid "CurrentProjectileCount"
+msgstr "CurrentProjectileCount"
+
+#. Key:	D4683EE84A9370CF4F990D9B1606E5D4
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.5.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.5.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",D4683EE84A9370CF4F990D9B1606E5D4"
+msgid "추가 투사체"
+msgstr "추가 투사체"
+
+#. Key:	D4BD90AA426F3C68F2A76EBEF6663B52
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(45 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(45 - Value).DisplayNameMap
+msgctxt ",D4BD90AA426F3C68F2A76EBEF6663B52"
+msgid "DamagePerLevel"
+msgstr "DamagePerLevel"
+
+#. Key:	D4F2E2314D54A5CCB6CB269FB4698EEE
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.13.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.13.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",D4F2E2314D54A5CCB6CB269FB4698EEE"
+msgid "빠른 장전"
+msgstr "빠른 장전"
+
+#. Key:	D51DB3BE4DEED5557EE3C0A231CFE3E1
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(40 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(40 - Value).DisplayNameMap
+msgctxt ",D51DB3BE4DEED5557EE3C0A231CFE3E1"
+msgid "DefaultRegenHealthPerSec"
+msgstr "DefaultRegenHealthPerSec"
+
+#. Key:	D5ACF68D45DEE5AF816640AA2F140A71
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.5.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.5.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",D5ACF68D45DEE5AF816640AA2F140A71"
+msgid "투사체를 1개 더 발사합니다."
+msgstr "투사체를 1개 더 발사합니다."
+
+#. Key:	D63D28BB452C904B039C2AB72144A7AD
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",D63D28BB452C904B039C2AB72144A7AD"
+msgid "DefaultEnergy"
+msgstr "DefaultEnergy"
+
+#. Key:	D8A5E0E6417BCE771FCA989B09446A1A
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.6.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.6.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",D8A5E0E6417BCE771FCA989B09446A1A"
+msgid "용암 장판 생성 확률 +0.5%, 장판 데미지 +15"
+msgstr "용암 장판 생성 확률 +0.5%, 장판 데미지 +15"
+
+#. Key:	DB84C403457D25A19EF954AF2A8A0C94
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",DB84C403457D25A19EF954AF2A8A0C94"
+msgid "IncreaseProjectileAmount"
+msgstr "IncreaseProjectileAmount"
+
+#. Key:	DBB01AEE41CA8625640A63AA0B438B2D
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",DBB01AEE41CA8625640A63AA0B438B2D"
+msgid "IncreaseCriticalChance"
+msgstr "IncreaseCriticalChance"
+
+#. Key:	DBB5F45B4751BDE610E5EA9B8BF63F1D
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(44 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(44 - Value).DisplayNameMap
+msgctxt ",DBB5F45B4751BDE610E5EA9B8BF63F1D"
+msgid "HealrhPerLevel"
+msgstr "HealrhPerLevel"
+
+#. Key:	DBDC6E884D15D9A3E8EFDA8054A3D330
+#. SourceLocation:	/Game/CriticalOrb/Blueprints/Object/BP_Text.Default__BP_Text_C:NewTextRenderComponent.Text
+#: /Game/CriticalOrb/Blueprints/Object/BP_Text.Default__BP_Text_C:NewTextRenderComponent.Text
+msgctxt ",DBDC6E884D15D9A3E8EFDA8054A3D330"
+msgid "TextTextTextTextText"
+msgstr "TextTextTextTextText"
+
+#. Key:	DE9EC30646B2075603F69A959B0FDBCE
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(17 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(17 - Value).DisplayNameMap
+msgctxt ",DE9EC30646B2075603F69A959B0FDBCE"
+msgid "CurrentAttackSpeed"
+msgstr "CurrentAttackSpeed"
+
+#. Key:	DF5A99164B41711E6E920AB571FA26E7
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Main.UW_Main_C:Get_TB_Health_Text [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_Main.UW_Main_C:Get_TB_Health_Text [Script Bytecode]
+msgctxt ",DF5A99164B41711E6E920AB571FA26E7"
+msgid "{0} / {1}"
+msgstr "{0} / {1}"
+
+#. Key:	E0D8814A436F71C18704CD8A4C945FCA
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.4.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityList.DT_AbilityList.4.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",E0D8814A436F71C18704CD8A4C945FCA"
+msgid "Staccato"
+msgstr "Staccato"
+
+#. Key:	E1C0DCEA4D975450D252A78E2A8717B0
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.9.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.9.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",E1C0DCEA4D975450D252A78E2A8717B0"
+msgid "폭발 확률 +0.5%, 폭발 데미지 +45, 폭발 범위 +30M"
+msgstr "폭발 확률 +0.5%, 폭발 데미지 +45, 폭발 범위 +30M"
+
+#. Key:	E342E9C94597394F317C7EB3100F2D8E
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.0.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.0.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",E342E9C94597394F317C7EB3100F2D8E"
+msgid "기본 체력 +15, 체력 재생 초당 +0.3"
+msgstr "기본 체력 +15, 체력 재생 초당 +0.3"
+
+#. Key:	E4FA6CB54BFB20C47613C0947D617E26
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(9 - Value).DisplayNameMap
+msgctxt ",E4FA6CB54BFB20C47613C0947D617E26"
+msgid "CurrentEnergy"
+msgstr "CurrentEnergy"
+
+#. Key:	E4FAD7C0424EB3FB62A2A785663BCDFA
+#. SourceLocation:	/Game/CriticalOrb/Input/IMC_Default.IMC_Default.Mappings(9).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/CriticalOrb/Input/IMC_Default.IMC_Default.Mappings(9).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",E4FAD7C0424EB3FB62A2A785663BCDFA"
+msgid "IA_Move_WASD"
+msgstr "IA_Move_WASD"
+
+#. Key:	E5A6F4434423E8999A641397E7FD184A
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(16 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_AbilityStats.E_AbilityStats.DisplayNameMap(16 - Value).DisplayNameMap
+msgctxt ",E5A6F4434423E8999A641397E7FD184A"
+msgid "IncreaseDamagePercent"
+msgstr "IncreaseDamagePercent"
+
+#. Key:	E71E0B5E43756126617EB99B4ADBC4F7
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",E71E0B5E43756126617EB99B4ADBC4F7"
+msgid "Player"
+msgstr "Player"
+
+#. Key:	E7FB68EC429888D1AAABC09B185D0295
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.11.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.11.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",E7FB68EC429888D1AAABC09B185D0295"
+msgid "유도 미사일 발사 확률 +0.5%, 유도 미사일 데미지 +85"
+msgstr "유도 미사일 발사 확률 +0.5%, 유도 미사일 데미지 +85"
+
+#. Key:	E95337E64B3C6C781FB2D09EDEF2E6BD
+#. SourceLocation:	/Game/CriticalOrb/HUD/Stats/UW_StatsBox.UW_StatsBox_C:WidgetTree.TB_Summoned.Text
+#: /Game/CriticalOrb/HUD/Stats/UW_StatsBox.UW_StatsBox_C:WidgetTree.TB_Summoned.Text
+msgctxt ",E95337E64B3C6C781FB2D09EDEF2E6BD"
+msgid "1"
+msgstr "1"
+
+#. Key:	E9A7D878450B57B22E42FF96DE9CDAC3
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.10.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.10.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",E9A7D878450B57B22E42FF96DE9CDAC3"
+msgid "광선 발사 확률 +0.5%, 광선 데미지 +175"
+msgstr "광선 발사 확률 +0.5%, 광선 데미지 +175"
+
+#. Key:	EA3522EB426A34B9CBCE1C812563E875
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.13.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.13.AbilityDescription_15_B88750884EDF22D7DC5243AFD29EE4C5
+msgctxt ",EA3522EB426A34B9CBCE1C812563E875"
+msgid "공격속도 +15%"
+msgstr "공격속도 +15%"
+
+#. Key:	EA5C41C74817DAC0C43806AF2D0CF3EB
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",EA5C41C74817DAC0C43806AF2D0CF3EB"
+msgid "Player"
+msgstr "Player"
+
+#. Key:	ED014C834975E2614C08598519AFADDF
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Options.UW_Options_C:WidgetTree.TextBlock_1.Text
+#: /Game/CriticalOrb/HUD/UW_Options.UW_Options_C:WidgetTree.TextBlock_1.Text
+msgctxt ",ED014C834975E2614C08598519AFADDF"
+msgid "Game"
+msgstr "Game"
+
+#. Key:	EDF2E3364DE34D0AC37F9D8332E3D8AD
+#. SourceLocation:	/Game/CriticalOrb/DataSets/E_GraphicQuality.E_GraphicQuality.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/CriticalOrb/DataSets/E_GraphicQuality.E_GraphicQuality.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",EDF2E3364DE34D0AC37F9D8332E3D8AD"
+msgid "Low"
+msgstr "Low"
+
+#. Key:	EE18DBB3441710A5F3782EA1D5EB5A1D
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_Options.UW_Options_C:ExecuteUbergraph_UW_Options [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_Options.UW_Options_C:ExecuteUbergraph_UW_Options [Script Bytecode]
+msgctxt ",EE18DBB3441710A5F3782EA1D5EB5A1D"
+msgid "Grapic Quality"
+msgstr "Grapic Quality"
+
+#. Key:	F13FF1384150357903B003A8A462E3F3
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(18 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(18 - Value).DisplayNameMap
+msgctxt ",F13FF1384150357903B003A8A462E3F3"
+msgid "DefaultMovementSpeed"
+msgstr "DefaultMovementSpeed"
+
+#. Key:	F231273D4EB45D57CA0FF1A455DCB6C1
+#. SourceLocation:	/Game/CriticalOrb/HUD/Main/UW_ToolTip.UW_ToolTip_C:CalcDesc [Script Bytecode]
+#: /Game/CriticalOrb/HUD/Main/UW_ToolTip.UW_ToolTip_C:CalcDesc [Script Bytecode]
+msgctxt ",F231273D4EB45D57CA0FF1A455DCB6C1"
+msgid "<NewValue>{0}</>"
+msgstr "<NewValue>{0}</>"
+
+#. Key:	F2449664446B0A3FD395BAB49029399D
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.11.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.11.AbilityName_28_1770ECEA48DBEBF2AA84E19FEE9FADB9
+msgctxt ",F2449664446B0A3FD395BAB49029399D"
+msgid "로켓 배송"
+msgstr "로켓 배송"
+
+#. Key:	F24912114F35B9A2D07369B4552252A9
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_SelectAbility.UW_SelectAbility_C:InitAbilityInfo [Script Bytecode]
+#: /Game/CriticalOrb/HUD/UW_SelectAbility.UW_SelectAbility_C:InitAbilityInfo [Script Bytecode]
+msgctxt ",F24912114F35B9A2D07369B4552252A9"
+msgid "{0} -> <NewValue>{1}</>"
+msgstr "{0} -> <NewValue>{1}</>"
+
+#. Key:	F279DF5C4E3C90E11AEF1BAEC96ED595
+#. SourceLocation:	/Game/CriticalOrb/Input/IMC_Default.IMC_Default.Mappings(4).Mappings.PlayerMappableOptions.DisplayName
+#: /Game/CriticalOrb/Input/IMC_Default.IMC_Default.Mappings(4).Mappings.PlayerMappableOptions.DisplayName
+msgctxt ",F279DF5C4E3C90E11AEF1BAEC96ED595"
+msgid "IA_Move_Arrow"
+msgstr "IA_Move_Arrow"
+
+#. Key:	F34A79434E011C2646E72289D34F0ED1
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(27 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(27 - Value).DisplayNameMap
+msgctxt ",F34A79434E011C2646E72289D34F0ED1"
+msgid "CurrentJumpCount"
+msgstr "CurrentJumpCount"
+
+#. Key:	F3C920954DC100D1FCB90EB90B3AF26C
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_HitType.E_HitType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",F3C920954DC100D1FCB90EB90B3AF26C"
+msgid "Enemy"
+msgstr "Enemy"
+
+#. Key:	F6CF05F64312CB6B0DB80CAAED0B2772
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_GameMode.E_GameMode.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_GameMode.E_GameMode.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",F6CF05F64312CB6B0DB80CAAED0B2772"
+msgid "Normal"
+msgstr "Normal"
+
+#. Key:	F6D595AA4F03A654F0DCF3AC40083AB1
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_StatusType.E_StatusType.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",F6D595AA4F03A654F0DCF3AC40083AB1"
+msgid "7"
+msgstr "7"
+
+#. Key:	F9BE257F4F0A1C5D724682BFE51B8C64
+#. SourceLocation:	/Game/CriticalOrb/HUD/UW_MainMenu.UW_MainMenu_C:WidgetTree.TB_About.Text
+#: /Game/CriticalOrb/HUD/UW_MainMenu.UW_MainMenu_C:WidgetTree.TB_About.Text
+msgctxt ",F9BE257F4F0A1C5D724682BFE51B8C64"
+msgid "About"
+msgstr "About"
+
+#. Key:	F9ED7D714C992D794700BEBC9705F0C8
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(16 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(16 - Value).DisplayNameMap
+msgctxt ",F9ED7D714C992D794700BEBC9705F0C8"
+msgid "DefaultAttackSpeed"
+msgstr "DefaultAttackSpeed"
+
+#. Key:	FA9F681347D2E6F1B62A12AC77168469
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",FA9F681347D2E6F1B62A12AC77168469"
+msgid "DefaultMana"
+msgstr "DefaultMana"
+
+#. Key:	FC628A414F6F86B5479FDF8E2AB73301
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(23 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(23 - Value).DisplayNameMap
+msgctxt ",FC628A414F6F86B5479FDF8E2AB73301"
+msgid "CurrentCriticalChance"
+msgstr "CurrentCriticalChance"
+
+#. Key:	FDF207944B26F6CD8992D58FA68843A2
+#. SourceLocation:	/Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.0.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+#: /Game/CriticalOrb/DataSets/DT_AbilityListTest.DT_AbilityListTest.0.AbilityDescriptionWithArgs_44_6F75C09C4DD341D88520D7B21FCE309B
+msgctxt ",FDF207944B26F6CD8992D58FA68843A2"
+msgid "기본 체력 +{0}%, 체력 재생 초당 +{1}"
+msgstr "기본 체력 +{0}%, 체력 재생 초당 +{1}"
+
+#. Key:	FF63B8954DBD4F0D0154C9ACCC03531C
+#. SourceLocation:	/Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(24 - Value).DisplayNameMap
+#: /Game/CriticalOrb/Enums/E_EntityStats.E_EntityStats.DisplayNameMap(24 - Value).DisplayNameMap
+msgctxt ",FF63B8954DBD4F0D0154C9ACCC03531C"
+msgid "DefaultCriticalDamage"
+msgstr "DefaultCriticalDamage"
+
